@@ -1,0 +1,8 @@
+C:\HARSHALA\STS_WorkPlace\spring-batch-partitioning-main\src\main\java\com\javatechie\spring\batch\config\CustomerWriter.java
+C:\HARSHALA\STS_WorkPlace\spring-batch-partitioning-main\src\main\java\com\javatechie\spring\batch\controller\JobController.java
+C:\HARSHALA\STS_WorkPlace\spring-batch-partitioning-main\src\main\java\com\javatechie\spring\batch\config\SpringBatchConfig.java
+C:\HARSHALA\STS_WorkPlace\spring-batch-partitioning-main\src\main\java\com\javatechie\spring\batch\repository\CustomerRepository.java
+C:\HARSHALA\STS_WorkPlace\spring-batch-partitioning-main\src\main\java\com\javatechie\spring\batch\BatchProcessingDemoApplication.java
+C:\HARSHALA\STS_WorkPlace\spring-batch-partitioning-main\src\main\java\com\javatechie\spring\batch\partition\ColumnRangePartitioner.java
+C:\HARSHALA\STS_WorkPlace\spring-batch-partitioning-main\src\main\java\com\javatechie\spring\batch\config\CustomerProcessor.java
+C:\HARSHALA\STS_WorkPlace\spring-batch-partitioning-main\src\main\java\com\javatechie\spring\batch\entity\Customer.java
